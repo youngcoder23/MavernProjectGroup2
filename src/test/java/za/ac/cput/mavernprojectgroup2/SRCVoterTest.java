@@ -14,7 +14,9 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author musad
+ * @author musaddiq mcwhite
+ * student number: 219369151
+ * 
  */
 public class SRCVoterTest {
     
