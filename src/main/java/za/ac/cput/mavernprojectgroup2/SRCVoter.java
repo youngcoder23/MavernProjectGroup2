@@ -11,7 +11,8 @@ import java.util.Scanner;
  *  
  * Returns result total votes of String array
  * 
- * @author musad
+ * @author musaddiq mcwhite
+ * student number: 219369151
  */
 public class SRCVoter {
     public static void main(String[] args) {
