@@ -8,7 +8,9 @@ package za.ac.cput.mavernprojectgroup2;
 import java.util.Scanner;
 
 /**
- *
+ *  
+ * Returns result total votes of String array
+ * 
  * @author musad
  */
 public class SRCVoter {
